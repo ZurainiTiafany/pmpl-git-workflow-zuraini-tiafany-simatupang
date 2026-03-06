@@ -15,9 +15,11 @@ $title = "Git Workflow Simulation";
 
     <h1><?php echo $title; ?></h1>
 
-    <p>Selamat datang di praktikum Git Workflow.</p>
+    <h2>Selamat datang di praktikum Git Workflow.</h2>
 
     <p>Halaman ini dibuat untuk membahas perekonomian</p>
+
+    <p>Perekonomian adalah sistem, aturan, dan aktivitas menyeluruh yang mencakup produksi, distribusi, perdagangan, dan konsumsi barang serta jasa di suatu wilayah atau negara</p>   
 
     <button onclick="showMessage()">Klik Saya</button>
 
