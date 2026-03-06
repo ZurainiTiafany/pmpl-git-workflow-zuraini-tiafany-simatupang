@@ -3,7 +3,10 @@
 function showMessage() {
     alert("Halo! Selamat Datang.");
 
-    document.querySelector("p").innerText = "Teks ini telah diubah";
+    let paragrafBaru = document.createElement("p");
+    paragrafBaru.innerText = "Ini adalah paragraf baru";
+
+    document.body.appendChild(paragrafBaru);
 }
 
 console.log("Git Workflow Simulation loaded.");
