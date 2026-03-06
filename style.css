@@ -38,3 +38,15 @@ button {
 button:hover {
     background-color: #2980b9;
 }
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #b7c9da;
+    color: rgb(240, 230, 230);
+    text-align: center;
+    padding: 15px 0;
+    font-weight: bold;
+}
